@@ -1,0 +1,1 @@
+The first 8 bytes of a png file always start with: 89 50 4E 47 in hex

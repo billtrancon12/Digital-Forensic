@@ -1,0 +1,2 @@
+The signature for the jpg and jpeg file types is 3 signature bytes at the beginning of the file:
+	FF D8 FF
